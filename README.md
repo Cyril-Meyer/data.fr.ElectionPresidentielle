@@ -16,3 +16,12 @@ Le positionnement d’un parti peut être subjectif, voici une liste (non exhaus
 * EM : 2017 centre, 2022 droite
 
 Les résultats pour 2022 sont récents et sont issus de données publiées par la communauté.
+
+# Visualisation
+
+![2022_t1](2022_t1.svg)
+![2017_t1](2017_t1.svg)
+![2012_t1](2012_t1.svg)
+![2007_t1](2007_t1.svg)
+![2002_t1](2002_t1.svg)
+![1995_t1](1995_t1.svg)
