@@ -14,3 +14,5 @@ Le positionnement d’un parti peut être subjectif, voici une liste (non exhaus
 * EELV : gauche
 * MoDEM : centre
 * EM : 2017 centre, 2022 droite
+
+Les résultats pour 2022 sont récents et sont issus de données publiées par la communauté.
