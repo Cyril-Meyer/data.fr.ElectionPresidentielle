@@ -19,9 +19,9 @@ Les résultats pour 2022 sont récents et sont issus de données publiées par l
 
 # Visualisation
 
-![2022_t1](2022_t1.svg)
-![2017_t1](2017_t1.svg)
-![2012_t1](2012_t1.svg)
-![2007_t1](2007_t1.svg)
-![2002_t1](2002_t1.svg)
-![1995_t1](1995_t1.svg)
+<object data="2022_t1.svg" type="image/svg+xml"> ![2022_t1](2022_t1.svg) </object>
+<object data="2017_t1.svg" type="image/svg+xml"> ![2017_t1](2017_t1.svg) </object>
+<object data="2012_t1.svg" type="image/svg+xml"> ![2012_t1](2012_t1.svg) </object>
+<object data="2007_t1.svg" type="image/svg+xml"> ![2007_t1](2007_t1.svg) </object>
+<object data="2002_t1.svg" type="image/svg+xml"> ![2002_t1](2002_t1.svg) </object>
+<object data="1995_t1.svg" type="image/svg+xml"> ![1995_t1](1995_t1.svg) </object>
