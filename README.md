@@ -25,3 +25,7 @@ Les résultats pour 2022 sont récents et sont issus de données publiées par l
 <object data="2007_t1.svg" type="image/svg+xml"> ![2007_t1](2007_t1.svg) </object>
 <object data="2002_t1.svg" type="image/svg+xml"> ![2002_t1](2002_t1.svg) </object>
 <object data="1995_t1.svg" type="image/svg+xml"> ![1995_t1](1995_t1.svg) </object>
+
+**legende**  
+![legende_gauche](legende_gauche.png)
+![legende_droite](legende_droite.png)
