@@ -11,20 +11,21 @@ Un vote est compté pour un côté s'il est donné à un candidat situé du bord
 ## Avertissement biais
 
 Le positionnement d’un parti peut être subjectif, voici une liste (non exhaustive) de choix qui pourrait être discuté ou ne pas correspondre.
-* EELV : gauche
-* MoDEM : centre
-* EM : 2017 centre, 2022 droite
+* EELV / Les Verts : gauche
+* MoDEM / UDF : centre
+* EM : 2017 centre, 2022 deux visualisations, α droite, β centre.
 
 Les résultats pour 2022 sont récents et sont issus de données publiées par la communauté.
 
 # Visualisation
 
-<object data="2022_t1.svg" type="image/svg+xml"> ![2022_t1](2022_t1.svg) </object>
+<object data="2022_t1_emd.svg" type="image/svg+xml"> ![2022_t1](2022_t1_emd.svg) </object>
 <object data="2017_t1.svg" type="image/svg+xml"> ![2017_t1](2017_t1.svg) </object>
 <object data="2012_t1.svg" type="image/svg+xml"> ![2012_t1](2012_t1.svg) </object>
 <object data="2007_t1.svg" type="image/svg+xml"> ![2007_t1](2007_t1.svg) </object>
 <object data="2002_t1.svg" type="image/svg+xml"> ![2002_t1](2002_t1.svg) </object>
 <object data="1995_t1.svg" type="image/svg+xml"> ![1995_t1](1995_t1.svg) </object>
+<object data="2022_t1_emc.svg" type="image/svg+xml"> ![2022_t1](2022_t1_emc.svg) </object>
 
 **legende**  
 ![legende_gauche](legende_gauche.png)
